@@ -1,4 +1,4 @@
-import { Person, SinglePerson } from "./single_responsibility_principle_examples/singleResponsibilityPrinciple";
+import { Person } from "./single_responsibility_principle_examples/singleResponsibilityPrinciple";
 import {
     EmailSender,
     SMSSender,
