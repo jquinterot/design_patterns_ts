@@ -14,17 +14,17 @@ import {
   rectangle1,
   rectangle2,
   square,
-} from "./liskovSubstitutionPrinciple/negativeLiskovSubstitutionPrinciple";
+} from "./liskov_substitution_principle_examples/negativeLiskovSubstitutionPrinciple";
 import {
   printArea,
   rectangle,
   square as liskovSquare,
-} from "./liskovSubstitutionPrinciple/liskovSubstitutionPrinciple";
+} from "./liskov_substitution_principle_examples/liskovSubstitutionPrinciple";
 import {
   duck,
   makeBirdFly,
   penguin,
-} from "./liskovSubstitutionPrinciple/negativeLiskovSubstitutionSecond";
+} from "./liskov_substitution_principle_examples/negativeLiskovSubstitutionSecond";
 
 //Using Single Responsibility Principle
 const person = new Person("Pablo", 12, "hired");
